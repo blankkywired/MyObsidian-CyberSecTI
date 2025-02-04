@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Linux-Fundamentos"
+                "path": "Computer_Networking"
               },
               "icon": "lucide-file",
-              "title": "Linux-Fundamentos"
+              "title": "Computer_Networking"
             }
           },
           {
@@ -189,16 +189,36 @@
   },
   "active": "2f21252ccd64776e",
   "lastOpenFiles": [
+    "Computer-Hardware/computadores  pessoais e segurança.md",
+    "Computer-Hardware/Cisco Course - Hardware basics.md",
+    "Computer_Networking/Introduction to Networking.md",
+    "Computer_Networking/Cisco Networking Basics/modulo1/Introdução a redes de Computadores.md",
+    "Computer_Networking/Cisco Networking Basics/modulo2/Peer-to-peer Network.md",
+    "Computer_Networking/Cisco Networking Basics/modulo1/Interação Cliente servidor.md",
+    "Computer_Networking/Cisco Networking Basics/modulo3",
+    "Computer_Networking/Cisco Networking Basics/modulo2",
+    "Computer_Networking/Cisco Networking Basics/modulo1",
+    "Computer_Networking/Cisco Networking Basics",
+    "Introduction to Networking/Cisco Networking Basics/modulo2/Peer-to-peer Network.md",
+    "Introduction to Networking/Cisco Networking Basics/modulo1/Introdução a redes de Computadores.md",
+    "Introduction to Networking/Cisco Networking Basics/modulo1/Interação Cliente servidor.md",
+    "Introduction to Networking/Cisco Networking Basics/modulo3",
+    "Introduction to Networking/Cisco Networking Basics/modulo2",
+    "Introduction to Networking/Cisco Networking Basics/modulo1",
+    "Introduction to Networking/Introduction to Networking.md",
+    "Introduction to Networking/Cisco Networking Basics",
+    "Introduction to Networking",
+    "Computer-Hardware/Hardware Roadmap - Livro Gabriel Torres.md",
+    "Computer-Hardware/Componentes_PC.canvas",
+    "Computer-Hardware/Como os computadores funcionam_.md",
+    "Computer-Hardware/Arquitetura de Von Neuman.canvas",
     "Linux-Fundamentos/Comandos_Basicos/02_Comandos_Basicos/Procurando arquivos e diretorios.md",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Procurando arquivos no sistema.md",
     "find.md",
     "Untitled",
-    "Computer-Hardware",
-    "Computer_Networking",
     "Linux-Fundamentos/Comandos_Basicos/Sumário.md",
     "Comandos_Basicos/Comandos_Basicos.md",
     "Fundamentos/Fundamentos.md",
-    "Linux-Fundamentos",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/01_Comando_Basicos.md",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Pedindo Ajuda.md",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Navegação de diretorios.md",
@@ -206,15 +226,6 @@
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Introdução.md",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Informações do Sistema.md",
-    "Tags",
-    "Linux-Fundamentos/Fundamentos/Shell/introdução aos operadores Shell.md",
-    "Linux-Fundamentos/Comandos_Basicos/02_Comandos_Basicos/02_Comandos_Basicos.md",
-    "Vault.md",
-    "Linux-Fundamentos/Fundamentos/Estrutura/Directory Structury.md",
-    "Linux-Fundamentos/Fundamentos/Estrutura/Arquitetura do Linux.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos",
-    "Linux-Fundamentos/Comandos_Basicos/02_Comandos_Basicos",
-    "Comandos_Basicos/Editando arquivos.md",
-    "Linux - Fundamentos.md"
+    "Linux-Fundamentos/Fundamentos/Shell/introdução aos operadores Shell.md"
   ]
 }

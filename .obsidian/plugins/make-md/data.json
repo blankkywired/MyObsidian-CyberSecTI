@@ -39,8 +39,8 @@
     "//Tags",
     "//Fundamentos/Fundamentos/Shell",
     "//Computer-Hardware",
-    "//Computer_Networking",
-    "//Linux-Fundamentos/Linux-Fundamentos/Comandos_Basicos"
+    "//Linux-Fundamentos/Linux-Fundamentos/Comandos_Basicos",
+    "//Computer_Networking"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

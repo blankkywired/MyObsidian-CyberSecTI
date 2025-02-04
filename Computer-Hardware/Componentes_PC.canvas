@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"5ae6d84ce73ba24f","x":431,"y":-107,"width":250,"height":60,"type":"text","text":""},
+		{"id":"89552f9d18d87433","type":"text","text":"CPU - Central Processing Unit","x":-178,"y":77,"width":250,"height":60,"color":"6"},
+		{"id":"f522031eb9c6542e","type":"text","text":"Memória Ram.","x":212,"y":-152,"width":250,"height":50,"color":"6"},
+		{"id":"1923a9c327e0d579","type":"text","text":" Busca de instruções pelo processador e dados a serem armazenados","x":560,"y":-185,"width":250,"height":116},
+		{"id":"9a418c3ebc651656","type":"text","text":" Placa Mãe","x":-400,"y":-166,"width":150,"height":73,"color":"6"},
+		{"id":"b523f2168a7228ba","type":"text","text":"Apoio fisico para os outros componentes, responsavel pela conexão elétrica dos componenes internos e externos","x":-720,"y":-209,"width":248,"height":159},
+		{"id":"13b93e36f56fbc9c","type":"text","text":"Unidade de Processamento Central: Tambem chamado de microprocessador, \"cerebro do computador\", realiza a manipulação de dados(processamento de dados).\n\n","x":-178,"y":240,"width":250,"height":280},
+		{"id":"6cf8d47ded04f175","type":"text","text":"Conjunto de chips principais da placa-mãe, Intercepta a comunicação entre processador e outros dispositivos","x":-179,"y":-620,"width":250,"height":191},
+		{"id":"b1ae55eeacf7dce5","type":"text","text":"  Chipset","x":-120,"y":-340,"width":132,"height":60,"color":"6"},
+		{"id":"ffe3fdf889d82c74","type":"text","text":"Slots de Expansão","x":247,"y":42,"width":215,"height":50,"color":"6"},
+		{"id":"6a956622a43d0c44","type":"text","text":"Localizados na placa-mãe, são os slots para placas de expansão cpmo:\n- Placa de vídeo\n- Placa de som\n- Placa de rede\n- Placa de Bluetooth\n- Cartão de interface de rede (NICs)\n\n- Cartão Wi-Fi","x":230,"y":160,"width":250,"height":395},
+		{"id":"132161ce01460683","type":"text","text":"Placa de Video        ","x":204,"y":-429,"width":196,"height":69,"color":"6"},
+		{"id":"6c3a66aba4f90b25","type":"text","text":"gerar sinal de video para o Monitor de video e para manipulação de dados e instruções de programas que façam uso da placa de video","x":177,"y":-740,"width":250,"height":215},
+		{"id":"6e0f6bb592a43e89","type":"text","text":"Computador - Personal Computer","x":-178,"y":-185,"width":252,"height":116,"color":"1"},
+		{"id":"312706c114a718a6","type":"text","text":"Fonte de Alimentação","x":-590,"y":37,"width":250,"height":60,"color":"6"},
+		{"id":"750568cb9772b822","type":"text","text":"Converter a tensão eletrica para a tensão exigida pelo computador e seus componentes","x":-591,"y":177,"width":250,"height":143},
+		{"id":"4d7a756fdb30e24e","type":"text","text":"Portas de Comunicação  ","x":-592,"y":-394,"width":250,"height":57,"color":"6"},
+		{"id":"f87c1a5c62b86812","type":"text","text":"Garantir a conexão entre componentes internos e externos á placa-mãe, algumas saõ: \n:Portas USB\n:SATA\n:Portas de Rede","x":-584,"y":-700,"width":250,"height":213}
+	],
+	"edges":[
+		{"id":"66fa8abd233afa1c","fromNode":"6e0f6bb592a43e89","fromSide":"bottom","toNode":"89552f9d18d87433","toSide":"top"},
+		{"id":"afc4f2c7e5522bc4","fromNode":"6e0f6bb592a43e89","fromSide":"right","toNode":"f522031eb9c6542e","toSide":"left"},
+		{"id":"89c2e79b0c61b780","fromNode":"f522031eb9c6542e","fromSide":"right","toNode":"1923a9c327e0d579","toSide":"left"},
+		{"id":"8293cfaa5c23a009","fromNode":"6e0f6bb592a43e89","fromSide":"left","toNode":"9a418c3ebc651656","toSide":"right"},
+		{"id":"78e55be141b85320","fromNode":"b523f2168a7228ba","fromSide":"right","toNode":"9a418c3ebc651656","toSide":"left"},
+		{"id":"96707ab7a6af6dde","fromNode":"89552f9d18d87433","fromSide":"bottom","toNode":"13b93e36f56fbc9c","toSide":"top"},
+		{"id":"bc985e285c8c9a51","fromNode":"b1ae55eeacf7dce5","fromSide":"top","toNode":"6cf8d47ded04f175","toSide":"bottom"},
+		{"id":"d8bb47ca67eed750","fromNode":"6e0f6bb592a43e89","fromSide":"top","toNode":"b1ae55eeacf7dce5","toSide":"bottom"},
+		{"id":"8e46273eb77f50f0","fromNode":"6e0f6bb592a43e89","fromSide":"bottom","toNode":"ffe3fdf889d82c74","toSide":"top"},
+		{"id":"f9e1e1b6181c5408","fromNode":"ffe3fdf889d82c74","fromSide":"bottom","toNode":"6a956622a43d0c44","toSide":"top"},
+		{"id":"65553049e3fa0d15","fromNode":"6e0f6bb592a43e89","fromSide":"top","toNode":"132161ce01460683","toSide":"bottom"},
+		{"id":"8a4e5e877d65851e","fromNode":"132161ce01460683","fromSide":"top","toNode":"6c3a66aba4f90b25","toSide":"bottom"},
+		{"id":"4dc1e075bb905ade","fromNode":"6e0f6bb592a43e89","fromSide":"bottom","toNode":"312706c114a718a6","toSide":"top"},
+		{"id":"191de720d1e399b6","fromNode":"312706c114a718a6","fromSide":"bottom","toNode":"750568cb9772b822","toSide":"top"},
+		{"id":"90678caf2c33b217","fromNode":"6e0f6bb592a43e89","fromSide":"top","toNode":"4d7a756fdb30e24e","toSide":"bottom"},
+		{"id":"0a417452f58ae948","fromNode":"4d7a756fdb30e24e","fromSide":"top","toNode":"f87c1a5c62b86812","toSide":"bottom"}
+	]
+}

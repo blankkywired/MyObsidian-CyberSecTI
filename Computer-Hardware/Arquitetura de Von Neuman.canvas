@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"949e149770fb3faf","type":"text","text":"Modelo de Von Neuman","x":-181,"y":-140,"width":175,"height":94,"color":"4"},
+		{"id":"123b9d1923d3a2ab","type":"text","text":"Central de Controle(CC)","x":115,"y":-123,"width":250,"height":60,"color":"5"},
+		{"id":"039d8f9844fbcf6e","type":"text","text":"Busca de instruções na memória. Decodificação de instruções para ativar ou desativar partes do processador.\n","x":480,"y":-185,"width":250,"height":184},
+		{"id":"29a5eb126c79f284","type":"text","text":"Central Aritmetica ( CA)","x":-219,"y":87,"width":250,"height":60,"color":"5"},
+		{"id":"a2e18a7c72740db6","type":"text","text":"Responsavel pela execução de cálculos, unidade logica aritmética como tambem é conhecida","x":115,"y":30,"width":250,"height":175},
+		{"id":"f42a9fbe5ad7ec9e","type":"text","text":"Atualmente conhecido como processador ou microprocessador","x":480,"y":69,"width":250,"height":98},
+		{"id":"44b50174f7f95324","type":"text","text":"Memoria(M)","x":-520,"y":-123,"width":250,"height":60,"color":"5"},
+		{"id":"a7b57b416354243f","x":-645,"y":57,"width":250,"height":120,"type":"text","text":"Armazenamento de dados fundamentais para execução de instruções "},
+		{"id":"d2d3680a947d0fb3","x":-840,"y":-170,"width":240,"height":155,"type":"text","text":" Guardar sequencias de instruções a serem executadas e dados correspondentes e programas"},
+		{"id":"45a08c1ab9a0c541","x":-218,"y":-320,"width":250,"height":80,"color":"5","type":"text","text":"Meio Externo de Gravação (R)"},
+		{"id":"1a0dcc2fa08125a1","x":-218,"y":-600,"width":250,"height":200,"type":"text","text":"-Sistema de armazenamento de dados\n\n-Dispositivos de Entrada e Saida de Dados"}
+	],
+	"edges":[
+		{"id":"4588c0e10efc93af","fromNode":"949e149770fb3faf","fromSide":"bottom","toNode":"29a5eb126c79f284","toSide":"top"},
+		{"id":"4fc4404e69714e7b","fromNode":"29a5eb126c79f284","fromSide":"right","toNode":"a2e18a7c72740db6","toSide":"left"},
+		{"id":"c23002ffb3772787","fromNode":"a2e18a7c72740db6","fromSide":"right","toNode":"f42a9fbe5ad7ec9e","toSide":"left"},
+		{"id":"145fac27176b8012","fromNode":"949e149770fb3faf","fromSide":"right","toNode":"123b9d1923d3a2ab","toSide":"left"},
+		{"id":"8a1e32133fada9f2","fromNode":"123b9d1923d3a2ab","fromSide":"right","toNode":"039d8f9844fbcf6e","toSide":"left"},
+		{"id":"131fb34abcd258b1","fromNode":"44b50174f7f95324","fromSide":"right","toNode":"949e149770fb3faf","toSide":"left"},
+		{"id":"b4afbe02c457b5f6","fromNode":"44b50174f7f95324","fromSide":"bottom","toNode":"a7b57b416354243f","toSide":"top"},
+		{"id":"9f6011420df7a197","fromNode":"d2d3680a947d0fb3","fromSide":"right","toNode":"44b50174f7f95324","toSide":"left"},
+		{"id":"bfd7b0add9e63037","fromNode":"949e149770fb3faf","fromSide":"top","toNode":"45a08c1ab9a0c541","toSide":"bottom"},
+		{"id":"82c16bdde45a5c68","fromNode":"1a0dcc2fa08125a1","fromSide":"bottom","toNode":"45a08c1ab9a0c541","toSide":"top"}
+	]
+}
