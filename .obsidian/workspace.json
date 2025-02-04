@@ -11,14 +11,12 @@
             "id": "2f21252ccd64776e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Linux-Fundamentos/Comandos_Basicos/02_Comandos_Basicos/Procurando arquivos e diretorios.md",
-                "mode": "preview",
-                "source": false
+                "path": "Linux-Fundamentos"
               },
               "icon": "lucide-file",
-              "title": "Procurando arquivos e diretorios"
+              "title": "Linux-Fundamentos"
             }
           },
           {
@@ -191,8 +189,8 @@
   },
   "active": "2f21252ccd64776e",
   "lastOpenFiles": [
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Procurando arquivos no sistema.md",
     "Linux-Fundamentos/Comandos_Basicos/02_Comandos_Basicos/Procurando arquivos e diretorios.md",
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Procurando arquivos no sistema.md",
     "find.md",
     "Untitled",
     "Computer-Hardware",
