@@ -38,9 +38,7 @@
     "/",
     "//Tags",
     "//Fundamentos/Fundamentos/Shell",
-    "//Computer-Hardware",
-    "//Linux-Fundamentos/Linux-Fundamentos/Comandos_Basicos",
-    "//Computer_Networking"
+    "//Linux-Fundamentos/Linux-Fundamentos/Comandos_Basicos"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -75,7 +73,7 @@
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Linux - Fundamentos",
+  "systemName": "CyberSeg",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
