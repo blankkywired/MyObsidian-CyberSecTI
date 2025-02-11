@@ -11,14 +11,12 @@
             "id": "9fcb2367e9b4dbbb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "mk-space",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "path": "Linux-Fundamentos"
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json"
+              "icon": "lucide-file",
+              "title": "Linux-Fundamentos"
             }
           }
         ]
