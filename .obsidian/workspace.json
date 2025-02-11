@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4215060420092cb9",
+        "id": "8142fc8f70afb9da",
         "type": "tabs",
         "children": [
           {
-            "id": "a12b98e6f6999bd6",
+            "id": "9fcb2367e9b4dbbb",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Linux-Fundamentos"
+                "path": "Computer_Networking"
               },
               "icon": "lucide-file",
-              "title": "Linux-Fundamentos"
+              "title": "Computer_Networking"
             }
           }
         ]
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:diret",
+                "query": "tag:#01_Comandos_Basicos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "3ae070cc4327d553",
+            "id": "6eee00aeffe637af",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -103,8 +103,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos_Basicos/01_Comando_Basicos/Procurando arquivos no sistema.md",
-                "collapseAll": false,
+                "file": "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Procurando arquivos no sistema"
+              "title": "Backlinks for Manipulando Arquivos"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos_Basicos/Sumário.md",
+                "file": "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sumário"
+              "title": "Outgoing links from Manipulando Arquivos"
             }
           },
           {
@@ -137,7 +137,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -149,19 +151,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos_Basicos/01_Comando_Basicos/Procurando arquivos no sistema.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Procurando arquivos no sistema"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,23 +173,33 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3ae070cc4327d553",
+  "active": "9fcb2367e9b4dbbb",
   "lastOpenFiles": [
+    "Computer_Networking/Introduction to Networking.md",
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Interagindo com Comandos.md",
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Informações do Sistema.md",
     "Linux-Fundamentos/Comandos_Basicos/Sumário.md",
-    "Computer-Hardware/Cisco Course - Hardware basics.md",
+    "Untitled.md",
+    "Computer_Networking/Cisco Networking Basics/modulo1/Interação Cliente servidor.md",
+    "Vault.md",
+    "Introduction to cybersecurity/Intro to Offensive Security.md",
+    "Introduction to cybersecurity/Intro to Defensive Security.md",
+    "Introduction to cybersecurity/Careers in Cyber security.md",
     "Computer-Hardware/computadores  pessoais e segurança.md",
     "Computer-Hardware/Hardware Roadmap - Livro Gabriel Torres.md",
     "Computer-Hardware/Como os computadores funcionam_.md",
-    "Computer-Hardware/Arquitetura de Von Neuman.canvas",
     "Computer-Hardware/Como os computadores funcionam?.md",
+    "Tags",
+    "Computer-Hardware/Cisco Course - Hardware basics.md",
+    "Computer-Hardware/Arquitetura de Von Neuman.canvas",
     "Computer-Hardware/Componentes_PC.canvas",
-    "Computer_Networking/Introduction to Networking.md",
     "Computer_Networking/Cisco Networking Basics/modulo1/Introdução a redes de Computadores.md",
     "Computer_Networking/Cisco Networking Basics/modulo2/Peer-to-peer Network.md",
-    "Computer_Networking/Cisco Networking Basics/modulo1/Interação Cliente servidor.md",
     "Computer_Networking/Cisco Networking Basics/modulo3",
     "Computer_Networking/Cisco Networking Basics/modulo2",
     "Computer_Networking/Cisco Networking Basics/modulo1",
@@ -203,14 +216,6 @@
     "Linux-Fundamentos/Comandos_Basicos/02_Comandos_Basicos/Procurando arquivos e diretorios.md",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Procurando arquivos no sistema.md",
     "find.md",
-    "Untitled",
-    "Comandos_Basicos/Comandos_Basicos.md",
-    "Fundamentos/Fundamentos.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/01_Comando_Basicos.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Pedindo Ajuda.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Navegação de diretorios.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Interagindo com Comandos.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Introdução.md"
+    "Comandos_Basicos/Comandos_Basicos.md"
   ]
 }

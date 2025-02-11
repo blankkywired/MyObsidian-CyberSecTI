@@ -35,10 +35,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Tags",
-    "//Fundamentos/Fundamentos/Shell",
-    "//Linux-Fundamentos/Linux-Fundamentos/Comandos_Basicos"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
