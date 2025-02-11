@@ -11,12 +11,14 @@
             "id": "9fcb2367e9b4dbbb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Linux-Fundamentos"
+                "file": "Computer-Hardware/Hardware Roadmap - Livro Gabriel Torres.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux-Fundamentos"
+              "title": "Hardware Roadmap - Livro Gabriel Torres"
             }
           }
         ]
@@ -151,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Computer-Hardware/Hardware Roadmap - Livro Gabriel Torres.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Hardware Roadmap - Livro Gabriel Torres"
             }
           },
           {
@@ -188,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fcb2367e9b4dbbb",
+  "active": "6eee00aeffe637af",
   "lastOpenFiles": [
+    "Computer-Hardware/Computer-Hardware.md",
     "Computer_Networking/Introduction to Networking.md",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Interagindo com Comandos.md",
@@ -226,7 +230,6 @@
     "Introduction to Networking",
     "Linux-Fundamentos/Comandos_Basicos/02_Comandos_Basicos/Procurando arquivos e diretorios.md",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Procurando arquivos no sistema.md",
-    "find.md",
-    "Comandos_Basicos/Comandos_Basicos.md"
+    "find.md"
   ]
 }

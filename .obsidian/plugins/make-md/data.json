@@ -36,7 +36,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags"
+    "//Tags",
+    "//Computer-Hardware"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -83,6 +84,6 @@
   "basics": true,
   "basicsSettings": null,
   "firstLaunch": true,
-  "notesPreview": false,
+  "notesPreview": true,
   "editStickerInSidebar": true
 }
