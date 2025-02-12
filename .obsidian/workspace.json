@@ -18,8 +18,19 @@
               "icon": "lucide-file",
               "title": "Imagens"
             }
+          },
+          {
+            "id": "8cd0c7cc4a9f7e59",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Manipulando Arquivos"
+              "title": "Backlinks"
             }
           },
           {
@@ -122,12 +132,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Manipulando Arquivos"
+              "title": "Outgoing links"
             }
           },
           {
@@ -188,8 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5e92b7298a7d911",
+  "active": "2ee1c0404807bfe5",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-12 00.21.38.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 00.21.34.excalidraw.md",
+    "Excalidraw",
     "Imagens/Imagens.md",
     "Imagens",
     "Untitled.md",
@@ -224,9 +236,6 @@
     "Introduction to Networking/Cisco Networking Basics/modulo2/Peer-to-peer Network.md",
     "Introduction to Networking/Cisco Networking Basics/modulo1/Introdução a redes de Computadores.md",
     "Introduction to Networking/Cisco Networking Basics/modulo1/Interação Cliente servidor.md",
-    "Introduction to Networking/Cisco Networking Basics/modulo3",
-    "Introduction to Networking/Introduction to Networking.md",
-    "Linux-Fundamentos/Comandos_Basicos/02_Comandos_Basicos/Procurando arquivos e diretorios.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Procurando arquivos no sistema.md"
+    "Introduction to Networking/Introduction to Networking.md"
   ]
 }
