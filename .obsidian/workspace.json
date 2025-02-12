@@ -161,19 +161,9 @@
               "icon": "lucide-list",
               "title": "Outline of Hardware Roadmap - Livro Gabriel Torres"
             }
-          },
-          {
-            "id": "9d35f50ce7eac12f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,8 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6eee00aeffe637af",
+  "active": "9fcb2367e9b4dbbb",
   "lastOpenFiles": [
+    "https:/github.com/blankkywired",
+    "https:/github.com",
+    "https:",
     "Computer-Hardware/Computer-Hardware.md",
     "Computer_Networking/Introduction to Networking.md",
     "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
@@ -226,10 +219,7 @@
     "Introduction to Networking/Cisco Networking Basics/modulo2",
     "Introduction to Networking/Cisco Networking Basics/modulo1",
     "Introduction to Networking/Introduction to Networking.md",
-    "Introduction to Networking/Cisco Networking Basics",
-    "Introduction to Networking",
     "Linux-Fundamentos/Comandos_Basicos/02_Comandos_Basicos/Procurando arquivos e diretorios.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Procurando arquivos no sistema.md",
-    "find.md"
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Procurando arquivos no sistema.md"
   ]
 }
