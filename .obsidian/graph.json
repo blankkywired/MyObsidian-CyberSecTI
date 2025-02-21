@@ -8,7 +8,7 @@
   "collapse-color-groups": true,
   "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.343644205729167,
   "lineSizeMultiplier": 1.82903645833333,

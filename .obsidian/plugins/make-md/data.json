@@ -36,9 +36,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags",
-    "//Imagens",
-    "//Excalidraw"
+    "//Introduction to cybersecurity"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

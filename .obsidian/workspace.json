@@ -23,14 +23,46 @@
             "id": "8cd0c7cc4a9f7e59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "Computer_Networking"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Computer_Networking"
+            }
+          },
+          {
+            "id": "878594620c7ad391",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Introduction to cybersecurity"
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to cybersecurity"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "896074475317e88e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44ac6595b7e9f091",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Introduction to cybersecurity"
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to cybersecurity"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#01_Comandos_Basicos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +116,7 @@
             }
           },
           {
-            "id": "f191371a4589671f",
+            "id": "08e2dc438bd21552",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -179,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,11 +229,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ee1c0404807bfe5",
+  "active": "44ac6595b7e9f091",
   "lastOpenFiles": [
+    "Introduction to cybersecurity/Introduction to cybersecurity.md",
+    "Computer-Hardware/Computer-Hardware.md",
+    "Vault.md",
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/01_Comando_Basicos.md",
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Navegação de diretorios.md",
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Introdução.md",
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Interagindo com Comandos.md",
+    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Informações do Sistema.md",
+    "Linux-Fundamentos/Comandos_Basicos/02_Comandos_Basicos/Procurando arquivos e diretorios.md",
+    "Computer_Networking/Cisco Networking Basics/modulo2/Peer-to-peer Network.md",
+    "Excalidraw/Drawing 2025-02-13 18.05.23.excalidraw.md",
+    "Excalidraw",
+    "Computer-Hardware/Como os computadores funcionam_.md",
+    "Computer-Hardware/Componentes_PC.canvas",
+    "Computer-Hardware/Arquitetura de Von Neuman.canvas",
+    "Introduction to cybersecurity/Intro to Defensive Security.md",
     "Excalidraw/Drawing 2025-02-12 00.21.38.excalidraw.md",
     "Excalidraw/Drawing 2025-02-12 00.21.34.excalidraw.md",
-    "Excalidraw",
     "Imagens/Imagens.md",
     "Imagens",
     "Untitled.md",
@@ -211,31 +259,15 @@
     "https:/github.com/blankkywired",
     "https:/github.com",
     "https:",
-    "Computer-Hardware/Computer-Hardware.md",
     "Computer_Networking/Introduction to Networking.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Manipulando Arquivos.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Interagindo com Comandos.md",
-    "Linux-Fundamentos/Comandos_Basicos/01_Comando_Basicos/Informações do Sistema.md",
     "Linux-Fundamentos/Comandos_Basicos/Sumário.md",
     "Computer_Networking/Cisco Networking Basics/modulo1/Interação Cliente servidor.md",
-    "Vault.md",
     "Introduction to cybersecurity/Intro to Offensive Security.md",
-    "Introduction to cybersecurity/Intro to Defensive Security.md",
     "Introduction to cybersecurity/Careers in Cyber security.md",
-    "Computer-Hardware/Como os computadores funcionam_.md",
-    "Computer-Hardware/Como os computadores funcionam?.md",
     "Tags",
-    "Computer-Hardware/Arquitetura de Von Neuman.canvas",
-    "Computer-Hardware/Componentes_PC.canvas",
-    "Computer_Networking/Cisco Networking Basics/modulo1/Introdução a redes de Computadores.md",
-    "Computer_Networking/Cisco Networking Basics/modulo2/Peer-to-peer Network.md",
     "Computer_Networking/Cisco Networking Basics/modulo3",
     "Computer_Networking/Cisco Networking Basics/modulo2",
     "Computer_Networking/Cisco Networking Basics/modulo1",
-    "Computer_Networking/Cisco Networking Basics",
-    "Introduction to Networking/Cisco Networking Basics/modulo2/Peer-to-peer Network.md",
-    "Introduction to Networking/Cisco Networking Basics/modulo1/Introdução a redes de Computadores.md",
-    "Introduction to Networking/Cisco Networking Basics/modulo1/Interação Cliente servidor.md",
-    "Introduction to Networking/Introduction to Networking.md"
+    "Computer_Networking/Cisco Networking Basics"
   ]
 }
